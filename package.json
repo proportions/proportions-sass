@@ -1,0 +1,12 @@
+{
+  "name": "proportions-sass",
+  "version": "1.0.0",
+  "description": "Organic, Mechanical and Musical Proportions",
+  "main": "proportions-sass.scss",
+  "files": [
+    "proportions-sass.scss"
+  ],
+  "repository": "proportions/proportions-sass",
+  "author": "Christian Hamburger Grøngaard <christianhg@gmail.com>",
+  "license": "MIT"
+}
