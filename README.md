@@ -2,7 +2,7 @@
 
 [![npm module](https://badge.fury.io/js/proportions-sass.svg)](https://www.npmjs.org/package/proportions-sass)
 
-> Organic, Mechanical and Musical Proportions
+> Organic, Mechanical and Musical Proportions for Sass
 
 From *The Elements of Typographic Style* by Robert Bringhurst.
 
