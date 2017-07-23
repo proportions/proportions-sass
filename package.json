@@ -1,6 +1,6 @@
 {
   "name": "proportions-sass",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Organic, Mechanical and Musical Proportions for Sass",
   "main": "proportions-sass.scss",
   "files": [
