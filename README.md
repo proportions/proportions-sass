@@ -6,6 +6,9 @@
 
 From *The Elements of Typographic Style* by Robert Bringhurst.
 
+* [General info](https://github.com/proportions/proportions)
+* [JavaScript implementation](https://github.com/proportions/proportions-js)
+
 Install using `npm` or `yarn`:
 
 ```
